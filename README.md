@@ -1,0 +1,2 @@
+# simple-calculator
+This is a simple calculator made using vanilla javascript
